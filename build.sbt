@@ -4,4 +4,4 @@ version := "1.0"
 
 scalaVersion := "2.11.7"
 
-initialCommands in console := "import pl.bka.Api._"
+initialCommands in console := "import pl.bka.Example"
